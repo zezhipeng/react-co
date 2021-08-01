@@ -7,7 +7,7 @@ coroutine + fiber + asyncIterator
 ## Usage
 
 App.jsx
-```
+```js
 import React from 'react'
 import co from 'react-co'
 
@@ -27,7 +27,7 @@ export default co(App)
 ```
 
 index.jsx
-```
+```js
 ReactDOM.render(
   <React.StrictMode>
     <App url='https://gw.alipayobjects.com/os/bmw-prod/c335e0c4-caa5-4c76-a321-20df96b6e5c8.json' />
