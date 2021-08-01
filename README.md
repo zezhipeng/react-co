@@ -2,7 +2,7 @@
 
 coroutine + fiber + asyncIterator
 
-协程 + 纤程的一种尝试，利用异步迭代器，生成一个自执行的 react 工作单位
+协程 + 纤程的一种尝试，利用异步迭代器，生成一个自执行的 React 工作单位
 
 ## Usage
 
