@@ -1,0 +1,17 @@
+logs/
+npm-debug.log
+node_modules/
+coverage/
+.idea/
+run/
+.DS_Store
+*.swp
+*.log
+.fe
+package-lock.json
+.umi
+public
+
+/node_modules/
+
+dist/
