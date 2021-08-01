@@ -11,7 +11,6 @@ App.jsx
 import React from 'react'
 import co from 'react-co'
 
-const sleep = s => new Promise(resolve => setTimeout(resolve, s * 1000))
 const f = (url) => fetch(url).then(res => res.json())
 
 async function* App(props) {
