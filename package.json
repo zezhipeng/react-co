@@ -1,0 +1,18 @@
+{
+  "name": "react-co",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "lib/react-co.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "author": "zezhipeng",
+  "license": "MIT"
+}
